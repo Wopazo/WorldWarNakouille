@@ -1,0 +1,11 @@
+name: WWIEVENT
+version: '${project.version}'
+main: com.main.wopaz.Untitled1
+api-version: '1.20'
+commands:
+  ssgroup:
+    description: Spawns a group of SS soldiers at your location.
+  sscommandant:
+    description: Spawns the SS Commandant at your location.
+  ssboss:
+    description: Spawns the SS Boss at your location.
